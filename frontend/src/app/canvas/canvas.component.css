@@ -1,0 +1,9 @@
+.sketch {
+  height: 100% !important;
+  width: 100% !important;
+}
+.pannel {
+  position: absolute;
+  height: 10%;
+  width: 20%;
+}

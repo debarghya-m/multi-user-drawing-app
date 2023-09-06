@@ -1,0 +1,20 @@
+<div class="launcher">
+  <div class="launcher-head">
+    <h3>Join Drawing Board</h3>
+  </div>
+  <div class="launcher-body">
+    <input
+      name="user"
+      placeholder="Enter User Name"
+      type="text"
+      [(ngModel)]="userName"
+    />
+    <button
+      [disabled]="userName === ''"
+      [class.block]="userName === ''"
+      (click)="joinRoom()"
+    >
+      Join
+    </button>
+  </div>
+</div>
