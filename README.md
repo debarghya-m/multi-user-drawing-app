@@ -27,7 +27,7 @@ This is a real-time multi-user drawing application built with Angular for the cl
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/debarghya-m/multi-user-drawing-app.git`
 2. Navigate to the server directory: `cd server`
 3. Install server dependencies: `npm install`
 4. Navigate to the client directory: `cd ../client`
