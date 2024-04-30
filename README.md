@@ -1,6 +1,6 @@
 # Multi-User Drawing App
 
-This is a real-time based multi-user drawing application built with Angular for the client-side, Node.js for the server-side, Socket.IO for real-time communication, and HTML Canvas for drawing.
+This is a real-time base multi-user drawing application built with Angular for the client-side, Node.js for the server-side, Socket.IO for real-time communication, and HTML Canvas for drawing.
 
 ## Features
 
